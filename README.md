@@ -1,4 +1,4 @@
-# GitHub Repository Manager
+# GitHub Analyzer
 
 A spring boot java  based application that heps to crawl through github user accounts using remote api calls
 
